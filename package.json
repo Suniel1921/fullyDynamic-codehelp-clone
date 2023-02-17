@@ -1,0 +1,28 @@
+{
+  "name": "codehelp-clone",
+  "version": "1.0.0",
+  "description": "clone of codeehelp website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "suniel1921"
+  },
+  "keywords": [
+    "clone",
+    "website"
+  ],
+  "author": "sunil sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
